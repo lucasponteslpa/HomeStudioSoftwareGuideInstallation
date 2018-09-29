@@ -1,16 +1,16 @@
 # HomeStudioSoftwareGuideInstallation
 
-# Dedependencias para instalação do Ardour
+## Dedependencias para instalação do Ardour
 
-sudo apt-get -y install libboost-all-dev
-sudo apt-get -y install libasound2-dev
-sudo apt-get -y install libglib2.0-dev
-sudo apt-get -y install glibmm-2.4-dev
-sudo apt-get -y install libsndfile1-dev
-sudo apt-get -y install libcurl4-gnutls-dev
-sudo apt-get -y install liblo-dev
-sudo apt-get -y install libtag1-dev
-sudo apt-get -y install vamp-plugin-sdk
+> sudo apt-get -y install libboost-all-dev
+> sudo apt-get -y install libasound2-dev
+> sudo apt-get -y install libglib2.0-dev
+> sudo apt-get -y install glibmm-2.4-dev
+> sudo apt-get -y install libsndfile1-dev
+> sudo apt-get -y install libcurl4-gnutls-dev
+> sudo apt-get -y install liblo-dev
+> sudo apt-get -y install libtag1-dev
+> sudo apt-get -y install vamp-plugin-sdk
 sudo apt-get -y install librubberband-dev
 sudo apt-get -y install libfftw3-dev
 sudo apt-get -y install libaubio-dev
