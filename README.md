@@ -52,6 +52,7 @@
 1. make install
 
 #Dependencias para instalar DrumGizmo
+
 sudo apt-get install \
   build-essential \
   autoconf \
